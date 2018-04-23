@@ -1,1 +1,3 @@
-https://www.youtube.com/watch?v=-GV_A9Js2nM&feature=share
+import pyperclip
+text=pyperclip.paste().replace("\r\n"," ")
+pyperclip.copy(text)
