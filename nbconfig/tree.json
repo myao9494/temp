@@ -1,8 +1,0 @@
-{
-  "load_extensions": {
-    "jupyter_cms/dashboard/main": false,
-    "tree-filter/index": true,
-    "nbextensions_configurator/tree_tab/main": true,
-    "nb_conda/tree": false
-  }
-}

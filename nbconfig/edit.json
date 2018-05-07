@@ -1,6 +1,0 @@
-{
-  "load_extensions": {
-    "codefolding/edit": false,
-    "jupyter_cms/editor/main": false
-  }
-}
