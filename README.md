@@ -9,3 +9,6 @@ https://qiita.com/shinichi62/items/b188ca9f5e92bd92d39a
 
 math
 http://ja.wolframalpha.com/
+
+
+array<vec3d> openvsp  ReadFileXSec
