@@ -1,6 +1,8 @@
 # temp
 tempです
 
+python 3d grid interpolation
+
 【python】np.meshgridの基本的な使い方まとめ
 https://www.haya-programming.com/entry/2018/05/19/194006
 
